@@ -14,8 +14,9 @@
 </h2>
 <div>بسته‌های مورد نیاز برای اجرا:
 <ul>
-<li>react-redux</li>
 <li>@reactjs/toolkit</li>
+<li>react-redux</li>
+<li>redux-thunk</li>
 <li>msw</li>
 </ul>
 برای اجرای شبیه‌ساز ام.اس.دابلیو دستور زیر نیز باید اجرا گردد. اگر پوشه شما `public` نیست، با اسم پوشه صحیح جایگزین کنید.
