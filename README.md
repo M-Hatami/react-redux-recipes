@@ -1,3 +1,30 @@
+<html lang="fa" dir="rtl">
+<body>
+<h1>معرفی
+</h1>
+<p>نمونه برنامه فهرست غذا با امکان افزودن و حذف گزینه‌های انتخابی به فهرست منتخبین وقابلیت جستجو نوشته شده بوسیله ری‌اکت جاوا اسکریپت، ریداکس، با شبیه سازی دریافت اطلاعات از بانک اطلاعات بوسلیه خدمات ارائه شده توسط بسته Mock Service Worker:</p>
+<div>
+<img src="https://raw.githubusercontent.com/M-Hatami/react-redux-recipe/master/public/img/%D9%86%D9%85%D9%88%D9%86%D9%87-%D8%B1%D8%A7%D8%A8%D8%B7-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C.jpg" alt="نمونه رابط کاربری"/>
+</div>
+<br/>
+<p>برای ملاحظه ارائه زنده به <a href="https://react-redux-recipes.netlify.app/">نمونه برخط</a> این طرح مراجعه فرمایید.
+</p>
+<br/>
+<h2>بسته‌های مورد نیاز برای نصب
+</h2>
+<div>بسته‌های مورد نیاز برای اجرا:
+react-redux
+@reactjs/toolkit
+msw
+
+برای اجرای شبیه‌ساز ام.اس.دابلیو دستور زیر نیز باید اجرا گردد. اگر پوشه شما `public` نیست، با اسم پوشه صحیح جایگزین کنید.
+
+`npx msw init ./public --save`
+
+</div>
+</body>
+</html>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
