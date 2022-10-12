@@ -1,9 +1,10 @@
 // allRecipesSlice.js
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
-import {
+/* import {
   addFavoriteRecipe,
   removeFavoriteRecipe,
 } from "../favoriteRecipes/favoriteRecipesSlice";
+*/
 import { selectSearchTerm } from "../search/searchSlice";
 export const loadRecipes = createAsyncThunk(
   "allRecipes/getAllRecipes",
