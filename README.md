@@ -13,10 +13,11 @@
 <h2>بسته‌های مورد نیاز برای نصب
 </h2>
 <div>بسته‌های مورد نیاز برای اجرا:
-react-redux
-@reactjs/toolkit
-msw
-
+<ul>
+<li>react-redux</li>
+<li>@reactjs/toolkit</li>
+<li>msw</li>
+</ul>
 برای اجرای شبیه‌ساز ام.اس.دابلیو دستور زیر نیز باید اجرا گردد. اگر پوشه شما `public` نیست، با اسم پوشه صحیح جایگزین کنید.
 
 `npx msw init ./public --save`
